@@ -43,7 +43,7 @@ h1{
 }
 /* home */
 .home{
-    background: linear-gradient(rgba(30, 30, 47, 0.92), rgba(30, 30, 47, 0.92)), url('/assets/bg.jpg');
+    background: linear-gradient(rgba(30, 30, 47, 0.92), rgba(30, 30, 47, 0.92)), url('bg.jpg');
     background-size: cover;
     padding: 210px;
     display: flex;
