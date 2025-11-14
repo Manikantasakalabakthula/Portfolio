@@ -12,6 +12,7 @@
   --shadow: rgba(0, 0, 0, 0.12);
   --hover-bg: #ff8c00;
   --hover-text: #ffffff;
+  --nav-hover: #ff8c00;
   --project-shadow: 0 18px 40px rgba(0, 0, 0, 0.20);
   --project-shadow-inverse: 0 18px 40px rgba(255, 255, 255, 0.06);
 }
@@ -65,6 +66,7 @@ body {
   --shadow: rgba(255, 255, 255, 0.04);
   --hover-bg: #0b0b0b;
   --hover-text: #f5f5f5;
+  --nav-hover: #ff8c00;
   --project-shadow: var(--project-shadow-inverse);
 }
 
@@ -125,10 +127,10 @@ header {
 }
 
 .navbar li a:hover {
-  color: var(--hover-bg);
+  color: var(--nav-hover);
   text-decoration: underline;
   text-underline-offset: 10px;
-  text-decoration-color: var(--hover-bg);
+  text-decoration-color: var(--nav-hover);
 }
 
 .bar {
