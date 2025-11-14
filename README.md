@@ -24,5 +24,3 @@ View the site: https://manikantasakalabakthula.github.io/Portfolio/
 - Google Fonts (Poppins)
 - Font Awesome (icons)
 - Deployed with GitHub Pages
-
-## Files
